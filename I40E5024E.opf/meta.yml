@@ -1,0 +1,26 @@
+id: I40E5024E
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-001
+  title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཞལ་ཁྲིད་ལས་དང་པོ་པ་རྣམས་འཇུག་བདེ་བའི་ལམ་བཟང་ངེས་དོན་དགོངས་རྒྱན།
+  author: མཛད་པ་པོ། འབོ་དཀར་རྡོ་རྗེ་འཆང་ཀརྨ་ངེས་དོན་ཆོས་ཀྱི་བློ་གྲོས།
+  authors: &id001
+  - མཛད་པ་པོ། འབོ་དཀར་རྡོ་རྗེ་འཆང་ཀརྨ་ངེས་དོན་ཆོས་ཀྱི་བློ་གྲོས།
+  sku: BOK-001
+  cover: Bokar-001.jpg
+  volume: {}
+ebook_metadata:
+  title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཞལ་ཁྲིད་ལས་དང་པོ་པ་རྣམས་འཇུག་བདེ་བའི་ལམ་བཟང་ངེས་དོན་དགོངས་རྒྱན།
+  authors: *id001
+  sku: BOK-001
+  cover: Bokar-001.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
